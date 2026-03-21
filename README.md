@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scaling ML systems, LLM evaluation, and distributed data pipelines**
 
-- 📝 I regularly write articles on [Coming soon – I will be writing articles on Machine Learning and AI Systems](Coming soon – I will be writing articles on Machine Learning and AI Systems)
+- 📝 I regularly write articles on (Coming soon – I will be writing articles on Machine Learning and AI Systems)
 
 - 💬 Ask me about **Machine Learning, RAG Systems, NLP, Python, FastAPI, ML Evaluation, Data Pipelines**
 
