@@ -36,7 +36,6 @@
 
 ## `> whoami`
 
-```python
 #!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────────────────────
 # pritheev.py  |  Runtime: Production  |  Status: Always Learning
