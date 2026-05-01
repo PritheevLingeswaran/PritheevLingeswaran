@@ -13,10 +13,7 @@
 
 ---
 
-- 🔭 I’m currently working on  
-  <a href="https://github.com/PritheevLingeswaran/rag-smart-qa">
-    <b>Production-Grade Hybrid RAG Platform</b>
-  </a>
+- 🔭 I’m currently working on <a href="https://github.com/PritheevLingeswaran/rag-smart-qa">
 
 - 🌱 I’m currently learning Machine Learning Systems, NLP, LLMs, FastAPI, Kafka, PostgreSQL, Docker, Model Evaluation</b>
 
