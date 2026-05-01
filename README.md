@@ -8,6 +8,11 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=PritheevLingeswaran&color=58a6ff&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/PritheevLingeswaran?style=flat-square&color=58a6ff&label=Followers)](https://github.com/PritheevLingeswaran?tab=followers)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-58a6ff?style=flat-square)
 
 </div>
 
@@ -36,6 +41,7 @@
 
 ## `> whoami`
 
+```python
 #!/usr/bin/env python3
 # ─────────────────────────────────────────────────────────────────────────────
 # pritheev.py  |  Runtime: Production  |  Status: Always Learning
@@ -172,14 +178,6 @@ print(me)
 
 ---
 
-## `> git log --graph --all`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritheevLingeswaran&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true&radius=6" />
-</div>
-
----
-
 ## `> python3 -c "import roadmap"`
 
 ```
@@ -231,8 +229,6 @@ LEARNING ROADMAP 2025
 <div align="center">
 <img src="https://raw.githubusercontent.com/PritheevLingeswaran/PritheevLingeswaran/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-> ⚡ *Snake animation requires a GitHub Action. See the setup section below.*
 
 ---
 
