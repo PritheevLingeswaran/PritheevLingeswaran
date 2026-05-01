@@ -12,11 +12,6 @@
 </div>
 
 ---
-<h1 align="center">Hi 👋, I'm Pritheev Lingeswaran</h1>
-
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | Machine Learning | NLP | RAG Systems | Backend & Data Systems
-</h3>
 
 <br/>
 
@@ -27,28 +22,22 @@ B.Tech CSE (AI & ML) Student | Machine Learning | NLP | RAG Systems | Backend & 
     <b>Production-Grade Hybrid RAG Platform</b>
   </a>
 
-- 🌱 I’m currently learning  
-  <b>Machine Learning Systems, NLP, LLMs, FastAPI, Kafka, PostgreSQL, Docker, Model Evaluation</b>
+- 🌱 I’m currently learning Machine Learning Systems, NLP, LLMs, FastAPI, Kafka, PostgreSQL, Docker, Model Evaluation</b>
 
-- 👯 I’m looking to collaborate on  
-  <b>Machine Learning / NLP / RAG / Data Engineering Projects</b>
+- 👯 I’m looking to collaborate on Machine Learning / NLP / RAG / Data Engineering Projects</b>
 
-- 🤝 I’m looking for help with  
-  <b>Scaling ML systems, LLM evaluation, and distributed data pipelines</b>
+- 🤝 I’m looking for help with Scaling ML systems, LLM evaluation, and distributed data pipelines</b>
 
-- 📝 I will soon start writing articles on  
-  <b>Machine Learning and AI Systems</b>
+- 📝 I will soon start writing articles on Machine Learning and AI Systems</b>
 
-- 💬 Ask me about  
-  <b>Machine Learning, RAG Systems, NLP, Python, FastAPI, ML Evaluation, Data Pipelines</b>
+- 💬 Ask me about Machine Learning, RAG Systems, NLP, Python, FastAPI, ML Evaluation, Data Pipelines</b>
 
 - 📫 Reach me at  
   <a href="mailto:pritheevlingeswaran123@gmail.com">
     <b>pritheevlingeswaran123@gmail.com</b>
   </a>
 
-- ⚡ Fun fact  
-  <b>I build Machine Learning systems more than I sleep.</b>
+- ⚡ Fun fact  I build Machine Learning systems more than I sleep.
 
 </p>
 
