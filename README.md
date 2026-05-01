@@ -8,11 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PritheevLingeswaran&color=58a6ff&style=flat-square&label=Profile+Views)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PritheevLingeswaran?style=flat-square&color=58a6ff&label=Followers)](https://github.com/PritheevLingeswaran?tab=followers)
-&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-58a6ff?style=flat-square)
 
 </div>
 
@@ -223,12 +218,6 @@ LEARNING ROADMAP 2025
 </div>
 
 ---
-
-## `> ./snake --run`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PritheevLingeswaran/PritheevLingeswaran/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
