@@ -12,8 +12,7 @@
 </div>
 
 ---
-<br/>
-<p align="left">
+
 - 🔭 I’m currently working on  
   <a href="https://github.com/PritheevLingeswaran/rag-smart-qa">
     <b>Production-Grade Hybrid RAG Platform</b>
