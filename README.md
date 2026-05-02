@@ -22,11 +22,8 @@
 - 💬 Ask me about **Machine Learning, RAG Systems, NLP, Python, FastAPI, ML Evaluation, Data Pipelines**
 - 📫 Reach me at **[pritheevlingeswaran123@gmail.com](mailto:pritheevlingeswaran123@gmail.com)**
 - ⚡ Fun fact — I build Machine Learning systems more than I sleep.
-
 </p>
-
 <br/>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
